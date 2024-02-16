@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = OldStyleApp
-build_property.ProjectDir = C:\Users\eacxr\OneDrive - TECO Energy\Documents\Education\c#_masterclass\hello_world\OldStyleApp\OldStyleApp\
+build_property.ProjectDir = C:\Users\eacxr\Documents\Education\c#_masterclass\hello_world\OldStyleApp\OldStyleApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
